@@ -1,3 +1,4 @@
+#![forbid(unsafe_code)]
 //! SigmaOS-data-relevance: data relevance model.
 //!
 //! Real implementation: context, scoring, filtering, and validation.
